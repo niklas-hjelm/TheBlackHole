@@ -1,4 +1,0 @@
-- spaghetti och köttfärssås
-- sushi
-- pannbiff med potatis
-- mangokyckling med ris

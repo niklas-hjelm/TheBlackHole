@@ -1,5 +1,0 @@
-- Name
-- Age
-- Adress
-- Phone
-- E-mail

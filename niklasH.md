@@ -2,3 +2,4 @@
 * Mjölk
 * Kaffe
 * Bacon
+* Flingor

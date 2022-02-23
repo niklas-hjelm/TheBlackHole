@@ -1,0 +1,4 @@
+* Ägg
+* Mjölk
+* Kaffe
+* Bacon

@@ -1,5 +1,6 @@
 # TheBlackHole
 
+Daniel Rydenberg
 Adam Kjellberg
 Martin Astner
 Tobias K

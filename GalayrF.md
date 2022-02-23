@@ -6,4 +6,4 @@
 
 # Lektion
 
-# Slut
+# Slut for idag

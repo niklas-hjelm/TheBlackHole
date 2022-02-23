@@ -1,5 +1,6 @@
 # TheBlackHole
 
+Roger Johansson
 Isac Börjesson
 Daniel Rydenberg
 Adam Kjellberg
@@ -11,4 +12,3 @@ Fredrik Ajell
 Viktor Rådberg
 Amanda Orrbeck
 Niklas Hjelm
-
